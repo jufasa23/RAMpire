@@ -7,7 +7,7 @@ Desenvolvido em **C# WPF (.NET 8)** pela Torchbit Studio.
 
 ---
 
-## <img src="https://github.com/jufasa23/RAMpire/blob/main/resources/logo.png?raw=true" alt="RAMpire Icon" height="40"/> Funcionalidades
+## 🚀 Funcionalidades
 <table >
   <tr>
     <td width="60%" valign="top" border = "0">
