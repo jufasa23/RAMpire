@@ -2,36 +2,38 @@
   <img src="https://github.com/jufasa23/RAMpire/blob/main/resources/logo-title.png?raw=true" alt="RAMpire Logo" width="500"/>
 </p>
 
-Um monitor e otimizador de memória RAM para Windows, simples, leve e direto ao ponto.  
-Desenvolvido em **C# WPF (.NET 8)** pela Torchbit Studio.
+Um monitor e otimizador de RAM para Windows: simples, leve e direto ao ponto.
+Caça processos inúteis, suga o excesso de consumo e devolve-te velocidade pura.
+Ativa o Modo Besta e liberta a criatura da noite que vai manter o teu PC ágil, rápido e implacável.
+- Liberto pela Torchbit Studio para devorar desperdício e devolver poder.
 
----
+<br><br>
 
-## 🚀 Funcionalidades
-<table >
-  <tr>
-    <td width="60%" valign="top" border = "0">
-      
+  <!--- Funcionalidades --->
+<div width="100%" align="center">
+  <!--- ScreenShot --->
+  <a align="left" href="#" title="ScreenShoot-1"><img align="right" height="515" src="https://github.com/jufasa23/RAMpire/blob/main/resources/ScreenShoot-1.png?raw=true"></a>
+</div>
+<br>
+
+ 🚀 Funcionalidades
+ 
+ ---
+ 
   - Monitorização em tempo real da memória RAM.
   - Limpeza rápida de processos para libertar memória.
   - **Modo Beast** 🦇 – otimização agressiva para jogos/peso máximo.
-  - Publicação em **arquivo único (.exe)** → basta descarregar e executar.
   - Interface simples e moderna, sem distrações. 
 
-    </td>
-    <td width="40%" valign="top">
-<img src="https://github.com/jufasa23/RAMpire/blob/main/resources/ScreenShoot-1.png?raw=true" alt="ScreenShoot-1" width="100%"/>
-    </td>
-  </tr>
-</table>
+<br><br>
 
----
 > [!TIP]
-> ## 📥 Instalação
+>  **📥 Instalação**
 > 1. Vai até à aba [Releases](../../releases).
 > 2. Descarrega a versão mais recente (`RAMpire-x.x.x.exe`).
 > 3. Executa diretamente – não precisa de instalação ou DLLs adicionais.
 >    
+<br><br><br><br><br><br><br>
 
 ---
 > [!NOTE]
@@ -45,8 +47,4 @@ Desenvolvido em **C# WPF (.NET 8)** pela Torchbit Studio.
 > 📌 Ver histórico completo em [CHANGELOG.md](CHANGELOG.md).
 > 
 
----
 
-## 👤 Autor
-**Torchbit Studio** – desenvolvido por Jufasa  
-📧 Contacto: Discord
