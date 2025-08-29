@@ -8,19 +8,19 @@ Desenvolvido em **C# WPF (.NET 8)** pela Torchbit Studio.
 ---
 
 ## <img src="https://github.com/jufasa23/RAMpire/blob/main/resources/logo.png?raw=true" alt="RAMpire Icon" height="40"/> Funcionalidades
-<table style="border: none;">
+<table >
   <tr>
-    <td width="50%" valign="top">
+    <td width="60%" valign="top" border = "0">
       
-- Monitorização em tempo real da memória RAM.
-- Limpeza rápida de processos para libertar memória.
-- **Modo Beast** 🦇 – otimização agressiva para jogos/peso máximo.
-- Publicação em **arquivo único (.exe)** → basta descarregar e executar.
-- Interface simples e moderna, sem distrações. 
+  - Monitorização em tempo real da memória RAM.
+  - Limpeza rápida de processos para libertar memória.
+  - **Modo Beast** 🦇 – otimização agressiva para jogos/peso máximo.
+  - Publicação em **arquivo único (.exe)** → basta descarregar e executar.
+  - Interface simples e moderna, sem distrações. 
 
     </td>
-    <td width="50%" valign="top">
-<img src="https://github.com/jufasa23/RAMpire/blob/main/resources/ScreenShoot-1.png?raw=true" alt="ScreenShoot-1" width="300"/>
+    <td width="40%" valign="top">
+<img src="https://github.com/jufasa23/RAMpire/blob/main/resources/ScreenShoot-1.png?raw=true" alt="ScreenShoot-1" width="100%"/>
     </td>
   </tr>
 </table>
